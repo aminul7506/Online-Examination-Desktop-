@@ -1,0 +1,24 @@
+Name : Aminul Islam Sojal; User Name : sojal; 
+Class : HSC; Institution Name : NOTRE DAME COLLEGE
+
+Subject Name       Set Number   Obtained Marks
+
+Chemistry                       1                        40
+Mathematics                 1                        30
+Higher Mathematics  1                        37
+Mathematics                 1                        40
+Higher Mathematics  3                        16
+Chemistry                       2                        40
+Mathematics                 1                        26
+Chemistry                       1                        01
+Mathematics                 1                        00
+Mathematics                 1                        00
+Chemistry                       1                        00
+Chemistry                       1                        00
+Chemistry                       1                        13
+Physics                             4                        20
+Physics                             1                        10
+Physics                             1                        01
+Mathematics                 2                        00
+Chemistry                       1                        04
+Physics                             2                        06
